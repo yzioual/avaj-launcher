@@ -41,3 +41,6 @@ Baloon B3 102 22 34
 JetPlane J2 11 99 768
 Helicopter H4 223 23 54
 ```
+
+### Output
+Upon a successful run, the application validates the scenario and generates a simulation.txt file in the execution directory detailing all registration, unregistration, weather ticks, and coordinate shifts.
