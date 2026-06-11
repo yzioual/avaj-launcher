@@ -1,4 +1,4 @@
-# Avaj Launcher
+# avaj-launcher
 
 An introductory Java project at 42 exploring Object-Oriented Design (OOD). This program is an aircraft simulation tracking various flight types moving through dynamically changing coordinates and weather conditions, built entirely using Java without external tools.
 
