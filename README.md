@@ -20,6 +20,7 @@ Compile the project from the root folder using the standard Java compiler syntax
 ```bash
 find -name "*.java" > sources.txt
 javac @sources.txt
+```
 
 ### Running the simulation
 ```
@@ -27,8 +28,8 @@ java ro.academyplus.avaj.simulator.Simulator scenario.txt
 ```
 
 ### Scenario.txt exmaple
-```
-25
+
+```25
 Baloon B1 2 3 20
 Baloon B2 1 8 66
 JetPlane J1 23 44 32
